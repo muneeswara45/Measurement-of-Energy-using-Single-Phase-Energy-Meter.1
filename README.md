@@ -1,3 +1,6 @@
+Name:Muneeswaran S
+Reg no :212223080034
+
 # Aim:
 To measure energy using Single Phase Energy Meter
 
